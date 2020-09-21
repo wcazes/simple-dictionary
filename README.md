@@ -2,4 +2,4 @@
 
 A simple dictionary built using the only decent JSON dictionary file I could find.
 
-Still works with the use of an API.
+Built to display on my github : view > [Dictionary] (https://williamcazes.com/projects/dictionary)
